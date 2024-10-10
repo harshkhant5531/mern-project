@@ -64,8 +64,6 @@ This project was created using the following technologies.
 
 - [Node js](https://nodejs.org/en/) -A runtime environment to help build fast server applications using JS
 - [Express js](https://www.npmjs.com/package/express) -The server for handling and routing HTTP requests
-- [mysql](https://www.npmjs.com/package/mysql) - For authentication
-- [cors](https://www.npmjs.com/package/uuid) - Provides a Connect/Express middleware
 
 ####  Database 
 
