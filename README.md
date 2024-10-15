@@ -1,6 +1,6 @@
 <H1 align ="center" > MERN PROJECT DASHBOARD  </h1>
 <h5  align ="center"> 
-Fullstack open source login & register dashboard application made with Express, React & Nodejs (MERN) </h5>
+Fullstack open source application made with Express, React & Nodejs (MERN) </h5>
 <br/>
 
   * [Configuration and Setup](#configuration-and-setup)
