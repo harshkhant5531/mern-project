@@ -1,4 +1,4 @@
-<H1 align ="center" > MERN LOGIN & REGISTER DASHBOARD  </h1>
+<H1 align ="center" > MERN PROJECT DASHBOARD  </h1>
 <h5  align ="center"> 
 Fullstack open source login & register dashboard application made with Express, React & Nodejs (MERN) </h5>
 <br/>
