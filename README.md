@@ -67,7 +67,7 @@ This project was created using the following technologies.
 
 ####  Database 
 
- - [MySQL ](https://www.mysql.com/) - It provides a free cloud service to store MongoDB collections.
+ - [Mongo Db Atlas ]([https://www.mysql.com/](https://www.mongodb.com/lp/cloud/atlas/try4-reg?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_apac-in_ps-all_dv-all_eng_lead&utm_term=mongodb%20com&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624347&adgroup=115749713423&cq_cmp=12212624347&gad_source=1&gclid=Cj0KCQjwgrO4BhC2ARIsAKQ7zUknJKHzB0ejSpLO-ExWUgm4SkresO0yiM4yRuyJNN6rd3PtwyYUFdYaAtKmEALw_wcB)) - It provides a free cloud service to store MongoDB collections.
 
 
 ## License
